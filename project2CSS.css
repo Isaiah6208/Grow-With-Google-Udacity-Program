@@ -1,0 +1,45 @@
+/* project2CSS.css */
+
+p.interesting
+{
+	font-style: italic;
+}
+ul.item
+{
+	list-style-type: none;
+}
+span
+{
+	font-weight: bold;
+}
+ul
+{
+	padding: 0px; /* ul lists have padding by default, so I had to set it to 0 for the list to align to the left neatly.*/
+}
+body
+{
+	width: 350px;
+	border-style: inset;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+div.information
+{
+	width: 300px;
+	padding-left: 25px;
+	border-style: inset;
+	background-color: #efeff5;
+}
+img.picture
+{
+	width: 300px;
+	padding-left: 25px;
+	background-color: #efeff5;
+}
+h3.name
+{
+	width: 300px;
+	padding-left: 25px;
+	background-color: #f5e1ff;
+	font-family: "Arial";
+}
