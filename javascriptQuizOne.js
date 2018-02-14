@@ -1,6 +1,7 @@
 /*
  * Programming Quiz: Converting Tempatures (2-2)
- *
+ * This quiz tested me on my knowledge about declaring/initialzing var data types. 
+ * Additionally, I was also tested on how to print to the console.
  * Use the Celsius-to-Fahrenheit formula to set the fahrenheit varible:
  *
  *     F = C x 1.8 + 32
