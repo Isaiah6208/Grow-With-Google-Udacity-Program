@@ -21,7 +21,7 @@ body
 	width: 350px;
 	border-style: solid;
 	border-radius: 10px;
-	box-shadow: 5px 10px #888888;
+	box-shadow: 5px 5px #888888;
 	padding-bottom: 10px;
 	padding-left: 10px;
 }
@@ -47,6 +47,7 @@ h3.name
 	border-style: solid;
 	border-radius: 2px;
 	padding-left: 25px;
-	background-color: #f5e1ff;
+	background-color: #ebe6e9;
 	font-family: "Arial";
+	box-shadow: 3px 3px #888888;
 }
