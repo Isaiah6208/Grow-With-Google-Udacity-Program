@@ -19,7 +19,7 @@ ul
 body
 {
 	width: 350px;
-	border-style: inset;
+	border-style: solid;
 	padding-bottom: 10px;
 	padding-left: 10px;
 }
@@ -27,18 +27,20 @@ div.information
 {
 	width: 300px;
 	padding-left: 25px;
-	border-style: inset;
+	border-style: solid;
 	background-color: #efeff5;
 }
 img.picture
 {
 	width: 300px;
+	border-style: solid;
 	padding-left: 25px;
 	background-color: #efeff5;
 }
 h3.name
 {
 	width: 300px;
+	border-style: solid;
 	padding-left: 25px;
 	background-color: #f5e1ff;
 	font-family: "Arial";
